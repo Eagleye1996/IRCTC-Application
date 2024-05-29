@@ -1,0 +1,5 @@
+in\codetech\IrctcApplication.class
+in\codetech\config\SwaggerConfig.class
+in\codetech\restcontroller\IrctcRestController.class
+in\codetech\reponse\Ticket.class
+in\codetech\request\Passanger.class
